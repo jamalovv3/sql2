@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.dll\\data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|solutionrelative:restaurantapp.dll\\data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD89E6-0EC0-47EE-A67A-09CBB8D61D8D}|RestaurantApp.Core\\RestaurantApp.Core.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.core\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD89E6-0EC0-47EE-A67A-09CBB8D61D8D}|RestaurantApp.Core\\RestaurantApp.Core.csproj|solutionrelative:restaurantapp.core\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.dll\\data\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|solutionrelative:restaurantapp.dll\\data\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD89E6-0EC0-47EE-A67A-09CBB8D61D8D}|RestaurantApp.Core\\RestaurantApp.Core.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD89E6-0EC0-47EE-A67A-09CBB8D61D8D}|RestaurantApp.Core\\RestaurantApp.Core.csproj|solutionrelative:restaurantapp.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD89E6-0EC0-47EE-A67A-09CBB8D61D8D}|RestaurantApp.Core\\RestaurantApp.Core.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.core\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD89E6-0EC0-47EE-A67A-09CBB8D61D8D}|RestaurantApp.Core\\RestaurantApp.Core.csproj|solutionrelative:restaurantapp.core\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD89E6-0EC0-47EE-A67A-09CBB8D61D8D}|RestaurantApp.Core\\RestaurantApp.Core.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD89E6-0EC0-47EE-A67A-09CBB8D61D8D}|RestaurantApp.Core\\RestaurantApp.Core.csproj|solutionrelative:restaurantapp.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.dll\\restaurantapp.dll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|solutionrelative:restaurantapp.dll\\restaurantapp.dll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.dll\\data\\configrations\\orderithemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|solutionrelative:restaurantapp.dll\\data\\configrations\\orderithemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.dll\\data\\configrations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|solutionrelative:restaurantapp.dll\\data\\configrations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.dll\\data\\configrations\\menuitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394552AB-D643-4378-8B32-FB3A7B6BA302}|RestaurantApp.DLL\\RestaurantApp.DLL.csproj|solutionrelative:restaurantapp.dll\\data\\configrations\\menuitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D120D6-9738-43BC-8DF9-95758E86B698}|RestaurantApp.BLL\\RestaurantApp.BLL.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.bll\\restaurantapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09D120D6-9738-43BC-8DF9-95758E86B698}|RestaurantApp.BLL\\RestaurantApp.BLL.csproj|solutionrelative:restaurantapp.bll\\restaurantapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056A606-D38A-4BFE-811B-4819938D4855}|RestaurantApp.PL\\RestaurantApp.PL.csproj|c:\\users\\teymurrj\\desktop\\new folder\\restaurantapp.dll\\restaurantapp.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5056A606-D38A-4BFE-811B-4819938D4855}|RestaurantApp.PL\\RestaurantApp.PL.csproj|solutionrelative:restaurantapp.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.Core\\Models\\Category.cs",
+              "RelativeToolTip": "RestaurantApp.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:35:43.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.Core\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Core\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.Core\\Models\\OrderItem.cs",
+              "RelativeToolTip": "RestaurantApp.Core\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:34:59.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.Core\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Core\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.Core\\Models\\Order.cs",
+              "RelativeToolTip": "RestaurantApp.Core\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:34:27.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.Core\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Core\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.Core\\Models\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantApp.Core\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:34:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "globalusing.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\globalusing.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.DLL\\Data\\globalusing.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\globalusing.cs",
+              "RelativeToolTip": "RestaurantApp.DLL\\Data\\globalusing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:31:13.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantApp.DLL",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\RestaurantApp.DLL.csproj",
+              "RelativeDocumentMoniker": "RestaurantApp.DLL\\RestaurantApp.DLL.csproj",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\RestaurantApp.DLL.csproj",
+              "RelativeToolTip": "RestaurantApp.DLL\\RestaurantApp.DLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-06T12:28:46.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.DLL\\Data\\RestaurantDbContext.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\RestaurantDbContext.cs",
+              "RelativeToolTip": "RestaurantApp.DLL\\Data\\RestaurantDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:26:40.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderIthemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\Configrations\\OrderIthemConfiguration.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.DLL\\Data\\Configrations\\OrderIthemConfiguration.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\Configrations\\OrderIthemConfiguration.cs",
+              "RelativeToolTip": "RestaurantApp.DLL\\Data\\Configrations\\OrderIthemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:24:42.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\Configrations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.DLL\\Data\\Configrations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\Configrations\\OrderConfiguration.cs",
+              "RelativeToolTip": "RestaurantApp.DLL\\Data\\Configrations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:24:05.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\Configrations\\MenuItemConfiguration.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.DLL\\Data\\Configrations\\MenuItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.DLL\\Data\\Configrations\\MenuItemConfiguration.cs",
+              "RelativeToolTip": "RestaurantApp.DLL\\Data\\Configrations\\MenuItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:22:28.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RestaurantApp.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.BLL\\RestaurantApp.BLL.csproj",
+              "RelativeDocumentMoniker": "RestaurantApp.BLL\\RestaurantApp.BLL.csproj",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.BLL\\RestaurantApp.BLL.csproj",
+              "RelativeToolTip": "RestaurantApp.BLL\\RestaurantApp.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-06T11:54:40.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.PL\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\teymurrj\\Desktop\\New folder\\RestaurantApp.DLL\\RestaurantApp.PL\\Program.cs",
+              "RelativeToolTip": "RestaurantApp.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:54:06.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\bin\Debug\net8.0\RestaurantApp.BLL.deps.json
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\bin\Debug\net8.0\RestaurantApp.BLL.dll
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\bin\Debug\net8.0\RestaurantApp.BLL.pdb
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\RestaurantApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\RestaurantApp.BLL.AssemblyInfoInputs.cache
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\RestaurantApp.BLL.AssemblyInfo.cs
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\RestaurantApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\RestaurantApp.BLL.sourcelink.json
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\RestaurantApp.BLL.dll
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\refint\RestaurantApp.BLL.dll
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\RestaurantApp.BLL.pdb
+C:\Users\teymurrj\Desktop\New folder\RestaurantApp.DLL\RestaurantApp.BLL\obj\Debug\net8.0\ref\RestaurantApp.BLL.dll
